@@ -51,6 +51,11 @@ button {
     box-shadow: 0;
 }
 
+img {
+    max-width: 400px;
+    max-height: 400px;
+}
+
 .hero-content {
 
 }
