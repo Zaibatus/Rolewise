@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.hero {
+    color: white;
+    background-color: #0058ff;  
+}
+
+.navbar { 
+    display: flex;
+}
+
+.hero-content {
+
+}
