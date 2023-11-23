@@ -75,8 +75,9 @@ img {
 .container {
     color: black;
     background-color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 18px 200px 100px;
 }
 
-.info-title {
-    color: black;
-}
