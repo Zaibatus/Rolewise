@@ -72,6 +72,11 @@ img {
    flex-direction: column;
 }
 
-.info-container {
+.container {
+    color: black;
+    background-color: white;
+}
+
+.info-title {
     color: black;
 }
