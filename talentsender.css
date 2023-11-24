@@ -1,13 +1,13 @@
 body {
     font-family: sans-serif;
     margin: 0;
+    flex: 1;
 }
 
 .hero {
     color: white;
     background-color: #0058ff;  
     padding: 18px 200px 100px;
-    flex: 1;
 }
 
 .navbar { 
@@ -63,7 +63,7 @@ img {
     max-width: 400px;
     max-height: 400px;
     justify-self: flex-end;
-    flex: 1;
+    flex: 0 1 auto;
 }
 
 .left-hero {
@@ -161,7 +161,10 @@ img {
 .footer {
     color: white;
     background-color: #0058ff;  
-    padding: 18px 200px 100px;
+    padding: 18px 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     flex: 1;
 }
 
