@@ -56,14 +56,14 @@ button {
     font-size: 14px;
     font-weight: 500;
     box-shadow: 0;
-    max-width: 150px;
+    width: 150px;
 }
 
 img {
     max-width: 400px;
     max-height: 400px;
     justify-self: flex-end;
-    flex-shrink: 1;
+    flex: 1;
 }
 
 .left-hero {
@@ -79,5 +79,15 @@ img {
     display: flex;
     justify-content: center;
     padding: 18px 200px 100px;
+    gap: 52px;
+}
+
+.info-title {
+    margin-bottom: 32px;
+}
+
+.container img {
+    width: 100px;
+    height: 100px;
 }
 
