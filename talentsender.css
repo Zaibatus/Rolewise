@@ -111,12 +111,58 @@ img {
 
 .testimonial h1 {
     font-style: italic;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 10px;
 }
 
-.testimonial h4 {
+.testimonial h3 {
     align-self: self-end;
+    font-weight: 500;
+}
+
+.cta {
+    color: white;
+    background-color: white;
+    padding: 100px 200px 100px;
+    gap: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+}
+
+.cta .modal {
+  background: #0058ff;
+  width: 800px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 5px;
+  padding: 30px;
+}
+
+.text-left {
+    margin: 10px;
+    max-width: 500px;
+}
+
+.cta button {
+    background-color: #0058ff;
+    color: white;
+    font-weight: 600;
+    border: 2px solid white;
+    margin-right: 50px;
+    margin-left: 50px;
+    width: 300px;
+}
+
+.footer {
+    color: white;
+    background-color: #0058ff;  
+    padding: 18px 200px 100px;
+    flex: 1;
 }
 
 
