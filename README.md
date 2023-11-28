@@ -1,4 +1,5 @@
-# landing-page
+# Talentoop
+
 Landing page project as part of The Odin Project curriculum
 
 This is a Landing page project. As part of this, I'll apply the Flexbox knowledge I gathered so far. 
