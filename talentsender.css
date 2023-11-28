@@ -12,6 +12,7 @@ body {
 
 .navbar { 
     display: flex;
+    flex-direction: row;
     align-items: center;
     justify-content: space-between;
     margin-bottom: 100px;
@@ -72,7 +73,10 @@ img {
    flex-direction: column;
 }
 
-.container {
+.infoContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     color: black;
     background-color: white;
     text-align: center;
