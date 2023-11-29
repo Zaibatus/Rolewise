@@ -1,4 +1,6 @@
-#**Rolewise** Transform your interview process, keep candidates engaged, and reduce churn rates with Rolewise—your secret weapon for fostering stronger connections and inspiring talent every step of the way.
+# Rolewise 
+
+Transform your interview process, keep candidates engaged, and reduce churn rates with Rolewise—your secret weapon for fostering stronger connections and inspiring talent every step of the way.
 
 ## What is Roleswise?
 
